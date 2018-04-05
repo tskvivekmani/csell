@@ -1,5 +1,11 @@
 # Firebase Auth UI Customization:
 
+List of default styles from FirebaseUI:
+
+https://github.com/firebase/FirebaseUI-Android/blob/master/auth/src/main/res/values/styles.xml
+
+https://firebase.google.com/docs/auth/android/manage-users#update_a_users_profile
+
 -------Custom Style-------
 
     <style name="FullscreenTheme" parent="AppTheme">
